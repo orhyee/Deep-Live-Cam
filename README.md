@@ -366,7 +366,7 @@ Looking for a CLI mode? Using the -s/--source argument will make the run program
 
 [![Stargazers](https://reporoster.com/stars/hacksider/Deep-Live-Cam)](https://github.com/hacksider/Deep-Live-Cam/stargazers)
 
-## Contributions
+## Contributions 
 
 ![Alt](https://repobeats.axiom.co/api/embed/fec8e29c45dfdb9c5916f3a7830e1249308d20e1.svg "Repobeats analytics image")
 
